@@ -11,8 +11,6 @@
 - ⚡ Fun fact: I like gaming💻 shoes👟, and bball🏀
 - 👨‍💻 Youtube: https://www.youtube.com/@exoticswisher1722
 
-![giphy](https://user-images.githubusercontent.com/124195896/217378911-aa4dccb5-563c-4e17-a9f1-9abce9d29c3c.gif)
-
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Xotic69&show_icons=true)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Xotic69&theme=highcontrast)](https://git.io/streak-stats)
@@ -36,3 +34,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   
+  ![giphy](https://user-images.githubusercontent.com/124195896/217378911-aa4dccb5-563c-4e17-a9f1-9abce9d29c3c.gif)
