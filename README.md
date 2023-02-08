@@ -1,6 +1,10 @@
- Hi there!👋 I'm Xotic!
+<h1 align="center">Hi 👋, I'm Xotic! </h1>
+
+![hack-hacker](https://user-images.githubusercontent.com/124195896/217428680-ea786250-a7d8-40e4-8103-37d99554c416.gif)
+
 
 🤵 About Me:
+
 - 🔭 I’m currently working on game hacks.
 - 🌱 I’m currently learning how to program.
 - 👯 I’m looking to collaborate on making more hacks and writing codes. 
