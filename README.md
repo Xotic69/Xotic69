@@ -1,12 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xotic! </h1>
 
-![hack-hacker](https://user-images.githubusercontent.com/124195896/217428680-ea786250-a7d8-40e4-8103-37d99554c416.gif)![discord-sticker](https://user-images.githubusercontent.com/124195896/217430217-383106b3-99b7-4d4e-876e-4a3c8345c159.gif)![itachi-uchiha-punch](https://user-images.githubusercontent.com/124195896/217430944-32f88a31-5bb8-4d54-b5aa-700694d887e3.gif)![sasuke-chidori](https://user-images.githubusercontent.com/124195896/217431322-9f830a29-886d-4b62-aeab-6df4079784cd.gif)![sports-sportsmanias](https://user-images.githubusercontent.com/124195896/217431776-66bfca1a-5ec6-4be8-b6df-a131e0ce6e31.gif)
-
-
-
-
-
-
 🤵 About Me:
 
 - 🔭 I’m currently working on game hacks.
